@@ -95,5 +95,14 @@ footer {
 .message {
     width: 800px;
     height: 300px;
-    
+}
+
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
 }
